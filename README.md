@@ -12,7 +12,7 @@ The goal was to practice **modern HMI design** and integration with PLC tags.
 - **Responsive UI**: Designed for Unified Comfort Panel + Web Client
 
 ## Screenshots
-![Main Screen](docs/screenshots/main-screen.png)
+![Main Screen](https://github.com/Radfar/WinCC-Unified-FactoryTalk-Optix-and-Ignition/blob/main/compare.jpg)
 ![Trend Display](docs/screenshots/trend-display.png)
 
 ## Notes
